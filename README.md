@@ -5,8 +5,8 @@
 ##
 Sobre mim
 - 🔥 Desenvolvedor Júnior apaixonado por tecnologia.
-- 👨🏾‍🎓 Cursei Desenvolvimento Web e Computação em nuvem.
-- 📚 Atualmente estou aprendendo SQL.
+- 👨🏾‍🎓 Cursei Desenvolvimento Web,Computação em nuvem e Gestão Empresarial com Software ERP.
+- 📚 Atualmente estou aprendendo JAVASCRIPT.
 - ⚡ Tecnologias:  HTML, CSS, JavaScript e SQL.
 ##
 
