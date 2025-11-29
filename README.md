@@ -1,45 +1,79 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Barroso;Eu+Tenho+18+Anos;Eu+Sou+De+São+Paulo,+SP;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-
-##
-Sobre mim
-- 🔥 Desenvolvedor Júnior apaixonado por tecnologia.
-- 👨🏾‍🎓 Cursei Desenvolvimento Web,Computação em nuvem e Gestão Empresarial com Software ERP.
-- 📚 Atualmente estou aprendendo JAVASCRIPT.
-- ⚡ Tecnologias:  HTML, CSS, JavaScript e SQL.
-##
-
-<div text-align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor30044&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=0d1117" alt="Victor Barroso github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor30044&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor30044&bg_color=000000&color=fff&line=fff&point=eeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h1 align="center">👋 Olá! Eu sou o Victor de Castro Barroso</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor30044&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  🔥 Desenvolvedor Júnior apaixonado por tecnologia<br>
+  👨🏽‍💻 Formação em Desenvolvimento Web, Computação em Nuvem e Gestão Empresarial com Software ERP<br>
+  📘 Atualmente estudando <strong>JavaScript</strong> e aprofundando conhecimentos em banco de dados<br>
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/vitinxx_7k/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+---
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/victor-de-castro-barroso-489b77328/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
+## 🚀 Tecnologias que utilizo
 
-### Ferramentas:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<div style="display: inline_block"><br>
 
- 
+<img align="center" alt="HTML" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JavaScript" height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="MySQL" height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victor30044}/count.svg" /></p> 
-<br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Victor30044&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor30044&layout=compact&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor30044&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Victor30044&theme=tokyonight&no-bg=true&no-frame=true)
+
+</div>
+
+---
+
+## 📌 Sobre mim
+
+- 🧑‍💼 Buscando oportunidade como **Jovem Aprendiz** ou **Desenvolvedor Júnior**
+- 📚 Estudante dedicado e sempre procurando evoluir na área de TI
+- ⚡ Apaixonado por sistemas, jogos, gráficos e programação desde criança
+- 🤝 Fácil comunicação, trabalho em equipe e empatia como ponto forte
+
+---
+
+## 🌎 Redes Sociais
+
+<div align="center">
+
+<a href="https://instagram.com/" target="_blank">
+<img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/" target="_blank">
+<img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 👀 Contador de Visitantes
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Victor30044&color=blue&style=for-the-badge)
+
+</div>
