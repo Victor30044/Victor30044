@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Victor de Castro Barroso</h1>
+<h1 align="center"> Olá! Eu sou o Victor de Castro Barroso 💻👨🏻‍💻</h1>
 
 <p align="center">
   🔥 Desenvolvedor Júnior apaixonado por tecnologia<br>
